@@ -4,7 +4,7 @@ using System;
 Console.WriteLine("Hello, World!");
 
 
-
+// Версия 2.0
 partial class Program
 {
     // Главная точка входа в программу
